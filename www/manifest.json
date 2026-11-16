@@ -1,0 +1,14 @@
+{
+  "name": "M12Test — គណិតវិទ្យា ១២",
+  "short_name": "M12Test",
+  "description": "កម្មវិធីតេស្តគណិតវិទ្យាថ្នាក់ទី 12 តាមមេរៀន តាមស្តង់ដាបាក់ឌុបទី 2",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10131f",
+  "theme_color": "#10131f",
+  "lang": "km",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
